@@ -1,6 +1,6 @@
 # IBM_QGSS2022
 
-## Introudction 
+## Introduction 
 
 In May 2022, I participated in Qiskit Global Summer School (https://qiskit.org/events/summer-school/). 
 Watching all the lectures and working on four different labs has led me to continue my education in my quantum! 
